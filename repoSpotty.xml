@@ -1,0 +1,18 @@
+<extensions>
+<details>
+<title lang="EN">Plugin Spotty 2</title>
+</details>
+<plugins>
+<plugin name="Spotty 2" version="Spotty-1.2.1" minTarget="*" maxTarget="*">
+<title lang="EN">JeedomSBcontrol2</title>
+<desc lang="EN">
+Plugin pour se synchroniser avec Spotify
+</desc>
+<creator>shadsnob</creator>
+<email/>
+<url>http://github.com/shadsnob/Spotty/raw/master/Spotty-1.2.1.zip</url>
+<sha>908339baf1b461fc030a9ce2f26b6b5520f2689d</sha>
+<link></link>
+</plugin>
+</plugins>
+</extensions>
